@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi developers 👋
 
-<!--
-**akilinomendez/akilinomendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is akilino, I´m from Spain.
 
-Here are some ideas to get you started:
+- I am the founder of the company [@nakytec](https://github.com/Nakytec)
+- We make custom developments
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill
+
+
+<p float="left">
+  <img src="./images/nodejs.png" width="100" /> 
+  <img src="./images/google.png" width="100" />
+  <img src="./images/firebase.png" width="100" /> 
+  <img src="./images/react.png" width="100" />
+</p>
+<p float="left">
+  <img src="./images/nestjs.png" width="100" /> 
+  <img src="./images/azure.png" width="100" />
+  <img src="./images/machine.png" width="100" />
+  <img src="./images/iot.png" width="100" />
+</p>
+ 
+
+ ## Contact
+
+Find all of  resume in  [website](https://nakytec.com)
