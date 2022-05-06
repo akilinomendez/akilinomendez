@@ -2,7 +2,7 @@
 
 My name is akilino, I´m from Spain.
 
-- I am the founder of the company [@nakytec](https://github.com/Nakytec)
+
 - We make custom developments
   
 
@@ -22,7 +22,3 @@ My name is akilino, I´m from Spain.
   <img src="./images/iot.png" width="100" />
 </p>
  
-
- ## Contact
-
-Find all of  resume in  [website](https://nakytec.com)
