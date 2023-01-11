@@ -1,6 +1,5 @@
-### Hi developers 👋
+### Hi I'm KiliDev
 
-My name is akilino, I´m from Spain.
 
 
 - We make custom developments
@@ -23,4 +22,4 @@ My name is akilino, I´m from Spain.
 </p>
  
 ![Anurag's GitHub stats](https://github-readme-stats-git-master-akilinomendez.vercel.app/api?username=akilinomendez&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats-git-master-akilinomendez.vercel.app/api/top-langs/?username=akilinomendez&layout=compact&count_private=true)]
+![Top Langs](https://github-readme-stats-git-master-akilinomendez.vercel.app/api/top-langs/?username=akilinomendez&layout=compact&count_private=true&show_icons=true&theme=radical)
