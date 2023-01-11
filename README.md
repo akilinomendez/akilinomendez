@@ -22,3 +22,4 @@ My name is akilino, I´m from Spain.
   <img src="./images/iot.png" width="100" />
 </p>
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akilinomendez&count_private=true&show_icons=true&theme=radical)
