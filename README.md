@@ -30,13 +30,6 @@ I'm a software developer, i have experience in the development of web applicatio
 
 ---
 
-### My Stats:
-
-![stats](https://github-readme-stats-git-master-akilinomendez.vercel.app/api?username=akilinomendez&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-master-akilinomendez.vercel.app/api/top-langs/?username=akilinomendez&layout=compact&count_private=true&show_icons=true&theme=radical)
-
----
-
 ### Contact:
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Kili_dev)](https://twitter.com/Kili_dev)
